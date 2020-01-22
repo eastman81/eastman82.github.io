@@ -1,2 +1,2 @@
 # eastman82.github.io
-trying another githu
+another github for class training
